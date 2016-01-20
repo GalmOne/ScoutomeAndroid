@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">ScoutAppV2</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Parameters</string>
+    <string name="Reunion">New Meeting</string>
+    <string name="BouttonHistory">History</string>
+    <string name="BouttonEnfants">Children list</string>
+    <string name="BouttonSettings">Parameters</string>
+    <string name="priceText">Price</string>
+    <string name="LabelContact">Contact person</string>
+    <string name="title_activity_history">History of meetings</string>
+    <string name="title_activity_children">Childrens</string>
+    <string name="title_activity_setting">Parameters</string>
+    <string name="title_activity_login">Login</string>
+    <string name="some_text">Some North American Countries!
+ </string>
+    <string name="title_activity_content_history">Content history</string>
+    <string name="DateReu">Date Activity</string>
+    <string name="EnfantPresent">Present children</string>
+    <string name="EnfantAbsent">Missing children</string>
+    <string name="Reuniondu">"Meeting of "</string>
+    <string name="erreurConversionReunion">Error meeting conversion</string>
+    <string name="erreurReponse">"Error Answer : "</string>
+    <string name="echecPresence">Failed presence</string>
+    <string name="PresenceAdd">New list of presence added</string>
+    <string name="ErreurReponseReunion">"Error Answer : "</string>
+    <string name="Chargement">Loading. Please wait...</string>
+    <string name="ErreurRepAnime">"Error Answer : "</string>
+    <string name="Save">Save</string>
+    <string name="NomReunion">Name</string>
+    <string name="lieuReunion">Place</string>
+    <string name="SelectionEnf">Select present children</string>
+    <string name="ErrorConnexion">Error of internet connexion!</string>
+    <string name="exit">Exit the app!</string>
+</resources>

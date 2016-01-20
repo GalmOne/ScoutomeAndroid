@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">ScoutAppV2</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="hello_world">Bonjour le monde!</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="Reunion">Nouvelle réunion</string>
+    <string name="BouttonHistory">Historique</string>
+    <string name="BouttonEnfants">Liste des enfants</string>
+    <string name="BouttonSettings">Paramètres</string>
+    <string name="priceText">Prix</string>
+    <string name="LabelContact">Personne de contact</string>
+    <string name="title_activity_history">Historique des réunions</string>
+    <string name="title_activity_children">Tous les enfants</string>
+    <string name="title_activity_setting">Paramètres</string>
+    <string name="title_activity_login">Le login</string>
+    <string name="some_text">Some North American Countries!
+ </string>
+    <string name="title_activity_content_history">Contenu des historiques</string>
+    <string name="DateReu">Date Activite</string>
+    <string name="EnfantPresent">Enfants Présents</string>
+    <string name="EnfantAbsent">Enfants Absents</string>
+    <string name="Reuniondu">"Réunion du "</string>
+    <string name="erreurConversionReunion">Erreur lors de conversion reunion</string>
+    <string name="erreurReponse">"Erreur Reponse : "</string>
+    <string name="echecPresence">Echec présence</string>
+    <string name="PresenceAdd">nouvelle liste de présence ajouté</string>
+    <string name="ErreurReponseReunion">"Erreur Reponse : "</string>
+    <string name="Chargement">Chargement. Veuillez patienter...</string>
+    <string name="ErreurRepAnime">"Erreur Reponse : "</string>
+    <string name="save">Sauver</string>
+    <string name="NomReunion">Nom</string>
+    <string name="lieuReunion">Lieu</string>
+    <string name="SelectionEnf">Sélectionner les enfants présents</string>
+    <string name="ErrorConnexion">Erreur de connexion internet! </string>
+    <string name="exit">Quitter l application!</string>
+</resources>
